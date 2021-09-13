@@ -4,7 +4,7 @@
 <p align='center'>I'm a software salesman by day, a developer by night, and an entrepreneur at heart.</p>
 <p align='center'>For enquiries, email me at cfcrisp.nc@gmail.com or message me on <a href="https://www.linkedin.com/in/carson-crisp/">LinkedIn</a>.</p>
 
-<h1 align='center'><i>Do it full speed exponentially or die.</i></h1>
+<h3 align='center'><i>"Do it full speed exponentially or die."</i></h3>
 
 <!--
 **cfcrisp/cfcrisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
